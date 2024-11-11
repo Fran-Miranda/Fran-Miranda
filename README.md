@@ -1,4 +1,4 @@
-## Meu nome é Fran Miranda😁
+## Meu nome é Fran Miranda
 
   <div>
    <a href="https://github.com/Fran Miranda">
